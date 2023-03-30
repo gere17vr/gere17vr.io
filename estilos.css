@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #169DC9 ;
+  color: #fff;
+  padding: 20px;
+}
+h1, h2, h3 {
+  margin-top: 0;
+}
+section {
+  margin: 20px;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+li {
+  margin-bottom: 20px;
+}
+h3 {
+  margin-top: 0;
+}
+p {
+  margin: 0;
+}
+section:nth-of-type(odd) {
+  background-color: #f7f7f7;
+}
